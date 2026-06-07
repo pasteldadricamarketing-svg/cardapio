@@ -1,0 +1,13 @@
+Cardápio Pastel da Drica - versão UX 50+ WhatsApp
+
+Fotos de produto mantidas: 86
+Fotos removidas por não estarem no cardápio: 0
+
+Fluxo implementado:
+1. Escolher produtos
+2. Colocar no pedido
+3. Continuar comprando ou ir ao carrinho
+4. Revisar pedido
+5. Finalizar e enviar pelo WhatsApp
+
+Valores: mantidos conforme index original enviado.

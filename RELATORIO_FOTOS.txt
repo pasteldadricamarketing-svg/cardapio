@@ -1,0 +1,3 @@
+Pacote limpo: somente imagens chamadas pelo cardápio oficial enviado.
+Fotos de produto incluídas: 86
+Arquivos fora do cardápio removidos: pastéis duplicados, brocolis-com-queijo, atum-especial, carne-seca-especial e sobras do ZIP enviado.
